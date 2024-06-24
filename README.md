@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Nari.
+I'm Nari from Neovim.
 <!--
 **iiTzNARI/iiTzNARI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
