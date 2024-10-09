@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nari Fukuda, Web Developer.
 <!--
 **iiTzNARI/iiTzNARI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
